@@ -10,7 +10,6 @@ Welcome to my corner of GitHub! I’m Sanjith Puvvada, a student at NC State int
 | --- | --- |
 | [SAT Math Tutoring](https://github.com/SanjithPuv/sat-math-tutoring) | A responsive tutoring website with interactive math practice. |
 | [Local Business Websites](https://github.com/SanjithPuv/local-business-websites) | Five responsive website concepts for businesses in Cary, Raleigh, and Apex. |
-| [Web Foundations](https://github.com/SanjithPuv/webpages) | HTML coursework and early experiments from E115. |
 
 ## 🌱 What interests me
 
@@ -23,3 +22,4 @@ Welcome to my corner of GitHub! I’m Sanjith Puvvada, a student at NC State int
 I’m interested in internship opportunities and collaborating on projects in software, embedded systems, or computer architecture. Have an idea or feedback on a project? Feel free to open an issue in the relevant repository.
 
 Thanks for stopping by!
+
