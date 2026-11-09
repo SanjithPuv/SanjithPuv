@@ -13,8 +13,7 @@ Welcome to my corner of GitHub! I’m Sanjith Puvvada, a student at NC State int
 | Project | What you’ll find |
 | --- | --- |
 | [Handwritten Digit Recognition](https://github.com/SanjithPuv/mnist-numpy) | A neural network built from scratch in Python and NumPy, achieving 97.08% MNIST test accuracy. Includes manual backpropagation and a step-by-step tutorial. |
-| [SAT Math Tutoring](https://github.com/SanjithPuv/sat-math-tutoring) | A responsive tutoring website with interactive math practice. |
-| [Local Business Websites](https://github.com/SanjithPuv/local-business-websites) | Five responsive website concepts for businesses in Cary, Raleigh, and Apex. |
+| [NBA Player Predictor](https://github.com/SanjithPuv/nba-player-predictor) | Forecasts NBA player points using historical stats available before tipoff. It ranks relevant reports by vector similarity, then uses them to explain the forecast with citations. Includes a Streamlit app and a command-line interface. |
 
 
 ## 🌱 What interests me
