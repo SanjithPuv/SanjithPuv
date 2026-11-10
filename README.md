@@ -1,11 +1,3 @@
-# Hey, I’m Sanjith 👋
-
-
-### NC State student · Curious builder · Always learning
-
-
-Welcome to my corner of GitHub! I’m Sanjith Puvvada, a student at NC State interested in software engineering, embedded systems, and computer architecture. I enjoy turning ideas into useful projects and making tricky concepts easier to understand.
-
 
 ## 🛠️ Take a look around
 
